@@ -34,7 +34,7 @@
 
 - [x] loops in python
 
-- [x]Functions and recursion 
+- [x] Functions and recursion 
 
 - [ ] File I/O
  
