@@ -14,6 +14,18 @@
  - Adding the solutions of the questions i am gonna solve 
  
 
+## How you can contribute to this repository? 
+
+- Create a folder of your name
+- Add a readme inside that folder and share your social media handles so that folks can reach out to you
+- Now start adding your projects and questions you solve inside that folder 
+
+
+
+
+
+
+
 ## My learnings so far 📚
 
 #### Python for beginners :
