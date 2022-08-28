@@ -60,6 +60,8 @@
 - course in written formatt : (https://www.programiz.com/python-programming)
 - 100 questions every beginner should must solve to clear their concepts : (https://www.programiz.com/python-programming/examples)
 
+- MIT 6.0001 Introduction to computer science and python programming. (https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
 - you can also checkout coures on ![freecodecamp.org](https://www.freecodecamp.org/news/python-programming-course/)
 
 ![Annotation 2022-08-24 110901](https://user-images.githubusercontent.com/96974600/186337872-5a6b8971-6ee2-4d6a-8cf5-0c8c22a8f783.png)
