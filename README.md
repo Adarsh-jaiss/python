@@ -21,9 +21,29 @@
 - Now start adding your projects and questions you solve inside that folder 
 
 
+## Resources
+
+- course in written formatt : (https://www.programiz.com/python-programming)
+- 100 questions every beginner should must solve to clear their concepts : (https://www.programiz.com/python-programming/examples)
+
+
+- MIT 6.0001 Introduction to computer science and python programming. (https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+- you can also checkout coures on ![freecodecamp.org](https://www.freecodecamp.org/news/python-programming-course/)
+
+![Annotation 2022-08-24 110901](https://user-images.githubusercontent.com/96974600/186337872-5a6b8971-6ee2-4d6a-8cf5-0c8c22a8f783.png)
+
+## NOTES
+
+![Untitled-2022-08-29-0956](https://user-images.githubusercontent.com/96974600/187143509-53672348-7f6c-4f0c-becf-3925e1bb5356.png)
 
 
 
+## Roadmap 
+- This is a complete roadmap from beginner to advanced learning 
+
+  
+![Screenshot 2022-08-24 at 11-41-48 Learn to become a modern Python developer](https://user-images.githubusercontent.com/96974600/186344323-06f4324f-328d-4a9c-a0ad-8fb958eed1a3.png)
 
 
 ## My learnings so far 📚
@@ -53,24 +73,6 @@
 - [ ] object oritented programming
 
 - [ ] Inheritence 
-
-
-## Resources
-
-- course in written formatt : (https://www.programiz.com/python-programming)
-- 100 questions every beginner should must solve to clear their concepts : (https://www.programiz.com/python-programming/examples)
-
-- MIT 6.0001 Introduction to computer science and python programming. (https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-
-- you can also checkout coures on ![freecodecamp.org](https://www.freecodecamp.org/news/python-programming-course/)
-
-![Annotation 2022-08-24 110901](https://user-images.githubusercontent.com/96974600/186337872-5a6b8971-6ee2-4d6a-8cf5-0c8c22a8f783.png)
-
-## Roadmap 
-- This is a complete roadmap from beginner to advanced learning 
-
-  
-![Screenshot 2022-08-24 at 11-41-48 Learn to become a modern Python developer](https://user-images.githubusercontent.com/96974600/186344323-06f4324f-328d-4a9c-a0ad-8fb958eed1a3.png)
 
 
 
