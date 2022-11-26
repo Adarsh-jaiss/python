@@ -45,6 +45,9 @@
   
 ![Screenshot 2022-08-24 at 11-41-48 Learn to become a modern Python developer](https://user-images.githubusercontent.com/96974600/186344323-06f4324f-328d-4a9c-a0ad-8fb958eed1a3.png)
 
+![image](https://user-images.githubusercontent.com/96974600/204101884-cabf6fcf-9813-4047-8a5f-f1e17c7be051.png)
+
+
 
 ## My learnings so far 📚
 
@@ -79,3 +82,4 @@
 ## My contributions after following this roadmap
 
 1. [Memphis](https://github.com/memphisdev/memphis.py/pull/46#pullrequestreview-1087123815) : Added documentation to pypi
+
