@@ -1,3 +1,8 @@
+# [Python cheatsheet](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/handouts/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/96974600/206142419-3d99e940-6061-4cd7-bc7a-dcbbc141282c.png)
 ![image](https://user-images.githubusercontent.com/96974600/206142788-7f3c0e1e-815d-469f-8adf-9ac22e89e643.png)
 
